@@ -24,10 +24,12 @@
     "webpack",
     "webpack4"
   ],
-  "contributors": [{
-    "name": "Daniel Rosenwasser",
-    "url": "https://github.com/DanielRosenwasser"
-  }],
+  "contributors": [
+    {
+      "name": "Daniel Rosenwasser",
+      "url": "https://github.com/DanielRosenwasser"
+    }
+  ],
   "author": {
     "name": "Tamino Martinius",
     "url": "https://github.com/tamino-martinius/"
